@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96cebc67-5ebe-40d4-a22f-713713a7e1c1" name="Default Changelist" comment="" />
+    <list default="true" id="96cebc67-5ebe-40d4-a22f-713713a7e1c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/1243-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/1316-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/1326-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/1665-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/1946-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/4238-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/4490-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/5213-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/5423-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/6278-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/6379-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/7813-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/7857-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/8567-پروژهWBS_تهیه.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/9550-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/userFiles/9962-5.png" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +30,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V46zIW4CyEAhfTjWMza6YiYgW1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -50,11 +71,22 @@
       <updated>1576500280672</updated>
       <workItem from="1576500281970" duration="2717000" />
       <workItem from="1576510999765" duration="13206000" />
-      <workItem from="1576921359992" duration="6504000" />
+      <workItem from="1576921359992" duration="7070000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
